@@ -10,10 +10,10 @@
         <span class="logo">Rembayung</span>
         <p>A traditional Malay restaurant by Khairul Aming, in the heart of Kampung Baru, Kuala Lumpur.</p>
         <div class="footer-social">
-          <a href="#"><i class="fab fa-instagram"></i></a>
-          <a href="#"><i class="fab fa-facebook-f"></i></a>
-          <a href="#"><i class="fab fa-tiktok"></i></a>
-          <a href="#"><i class="fab fa-youtube"></i></a>
+          <a href="https://www.instagram.com/rembayungmy/?hl=en"><i class="fab fa-instagram"></i></a>
+          <a href="https://www.facebook.com/rembayungmy"><i class="fab fa-facebook-f"></i></a>
+          <a href="https://www.tiktok.com/@rembayungmy"><i class="fab fa-tiktok"></i></a>
+          <a href="https://linktr.ee/rembayungmy?utm_source=linktree_profile_share&ltsid=03aab8bb-ec5e-4fba-9ab0-c54714f3af97"><i class="fa-solid fa-plus"></i></a>
         </div>
       </div>
       <div class="footer-col">
